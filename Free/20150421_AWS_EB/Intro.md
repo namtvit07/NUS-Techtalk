@@ -1,0 +1,1 @@
+How to deploy Rails app to AWS ElasticBeanstalk
